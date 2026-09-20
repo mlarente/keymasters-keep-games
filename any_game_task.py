@@ -1,4 +1,4 @@
-# https://github.com/Rooby-Roo/KeymastersKeepGameArchive
+# From: https://github.com/Rooby-Roo/KeymastersKeepGameArchive
 from __future__ import annotations
 
 from typing import List
