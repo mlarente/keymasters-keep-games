@@ -42,7 +42,7 @@ class Catherine(Game):
                 weight=2,
             ),
         ]
-        if self.self.golden_playhouse_difficulties():
+        if self.golden_playhouse_difficulties():
             templates.append(GameObjectiveTemplate(
                 label="Golden Playhouse: Get at least RANK rank in the day DAY nightmare in MODE mode on DIFFICULTY difficulty",
                 data={
